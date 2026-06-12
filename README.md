@@ -121,7 +121,7 @@ MediVoice AI is designed to **help patients understand** their prescriptions, no
 ---
 ## 📖 Read More
 
-Built this project and wrote about the journey — the real challenges, the debugging, and the idea behind it.
+Built this project and wrote about the journey : the challenges, the debugging, and the idea behind it.
 
 Medium Article: [Is Your Doctor's Handwriting a Mystery? I Built an AI to Decode It](https://medium.com/@kalradev50/is-your-doctors-handwriting-a-mystery-i-built-an-ai-to-decode-it-bc9e4be977cf)
 
