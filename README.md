@@ -119,5 +119,12 @@ flutter run
 MediVoice AI is designed to **help patients understand** their prescriptions, not to provide medical advice. Every response includes a disclaimer reminding users to follow their doctor's instructions.
 
 ---
+## 📖 Read More
 
-Shoutout to Sarvam API's: Documentation : https://docs.sarvam.ai & Flutter: Documentation: https://docs.flutter.dev/
+Built this project and wrote about the journey — the real challenges, the debugging, and the idea behind it.
+
+Medium Article: [Is Your Doctor's Handwriting a Mystery? I Built an AI to Decode It](https://medium.com/@kalradev50/is-your-doctors-handwriting-a-mystery-i-built-an-ai-to-decode-it-bc9e4be977cf)
+
+### Shoutout to Resources: 
+* Sarvam AI: Documentation : https://docs.sarvam.ai
+* Flutter: Documentation: https://docs.flutter.dev/
