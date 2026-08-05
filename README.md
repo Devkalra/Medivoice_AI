@@ -1,8 +1,10 @@
-# 🩺 MediVoice AI
+<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/a342b556-ab3a-4155-a7b5-85283f14bb7f" />
 
-> Prescription understanding assistant application built with Flutter and Python with **Sarvam AI**.
+<h1 align="center"> 🩺 MediVoice AI </h1>
 
-Upload or capture a doctor's prescription → get clear medicine explanations → listen in **Hindi or English**.
+<p align="center">  MediVoice AI- Prescription understanding assistant application built with Flutter and Python with *Sarvam AI*.
+
+> Upload or capture a doctor's prescription → get clear medicine explanations → listen in **Hindi or English**.
 
 ## App Architecture
 
